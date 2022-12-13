@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Omais Ahmed!
-- 🔭 I’m currently working on Laravel
+- 🔭 I’m currently working on <a href="https://laravel.com/">Laravel</a>
 - 🌱 I’m currently learning React
 - 💬 Ask me about Laravel or any tech related stuff.
 - 💞️ I’m looking to collaborate on my Portfolio
