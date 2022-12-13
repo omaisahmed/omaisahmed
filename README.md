@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Omais Ahmed!
+- 👋 Hi, I’m <a href="https://omaisahmed.github.io/folio">Omais Ahmed!</a>
 - 🔭 I’m currently working on <a href="https://laravel.com/">Laravel</a>
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning <a href="https://reactjs.org/">React</a>
 - 💬 Ask me about Laravel or any tech related stuff.
-- 💞️ I’m looking to collaborate on my Portfolio
-- 📫 How to reach me Twitter - @OmaisAhmed10
+- 💞️ I’m looking to collaborate on my <a href="https://omaisahmed.github.io/folio">Portfolio</a>
+- 📫 How to reach me Twitter - <a href="https://twitter.com/OmaisAhmed10">@OmaisAhmed10</a>
