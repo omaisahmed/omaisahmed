@@ -2,5 +2,5 @@
 - 🔭 I’m currently working on <a href="https://laravel.com/">Laravel</a>
 - 🌱 I’m currently learning <a href="https://reactjs.org/">React</a>
 - 💬 Ask me about PHP or any tech related stuff.
-- 💞️ I’m looking to collaborate on my <a href="https://omaisahmed.github.io/folio">Portfolio</a>
+- 💞️ I’m looking to collaborate on my <a href="https://omais.vercel.app/">Portfolio</a>
 - 📫 How to reach me Twitter - <a href="https://twitter.com/OmaisAhmed10">@OmaisAhmed10</a>
